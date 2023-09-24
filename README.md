@@ -11,3 +11,4 @@ Currently dancing: Bachata, ChaCha, Latin Hustle, Zouk, Kizomba, Salsa.
 - Verdiale
 - Cross Body
 - Open Break
+- Side and across
